@@ -3,6 +3,7 @@ import streamlit as st
 import pickle
 from sklearn.preprocessing import StandardScaler
 import time
+#hay jana
 
 st.set_page_config(page_title="نموذج التعثر المالي", page_icon="📉", layout="wide")
 
