@@ -73,4 +73,10 @@ streamlit run main.py
 * Streamlit App: [https://project-amadhackthon-narj.streamlit.app/](https://project-amadhackthon-narj.streamlit.app/)
 * YouTube Demo: [https://youtu.be/q78nvJXQLMk](https://youtu.be/q78nvJXQLMk)
 
+---
+
+📸 **Screenshot:** ![Streamlit Dashboard](images/.png)
+
+📄 **Report PDF:** [Report PDF](docs/presentation.pdf)
+
 
