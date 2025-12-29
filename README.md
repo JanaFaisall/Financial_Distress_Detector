@@ -81,6 +81,6 @@ streamlit run main.py
 
 ## 📄 Report 
 
-![Report PDF](README_docs/presentation.pdf)
+[Report PDF](README_docs/presentation.pdf)
 
 
