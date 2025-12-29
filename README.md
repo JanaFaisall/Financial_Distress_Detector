@@ -75,8 +75,12 @@ streamlit run main.py
 
 ---
 
-📸 **Screenshot:** ![Streamlit Dashboard](images/.png)
+## 📸 Screenshot
 
-📄 **Report PDF:** [Report PDF](docs/presentation.pdf)
+![Streamlit Dashboard](Streamlit_Dashboard/.png)
+
+## 📄 Report 
+
+![Report PDF](docs/presentation.pdf)
 
 
