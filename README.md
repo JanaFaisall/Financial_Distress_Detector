@@ -1,9 +1,8 @@
 # Early Financial Distress Detection System
-**Hackathon AMAD – Team Narj**
+Hackathon AMAD – Team Narj
 Project Duration: June 2025
 
-A machine learning–based system developed during **AMAD Hackathon** to predict early financial distress among bank customers.  
-The system analyzes financial indicators and provides clear predictions with explanatory reasons through an interactive **Streamlit dashboard**.
+A machine learning–based system developed during **AMAD Hackathon** to predict early financial distress among bank customers. The system analyzes financial indicators and provides clear predictions with explanatory reasons through an interactive **Streamlit dashboard**.
 
 ---
 
