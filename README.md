@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn xgboost imbalanced-learn streamlit matplot
 **Step 2:** Train the model
 
 ```bash
-python main.py
+python model.py
 ```
 
 **Step 3:** Run Streamlit
