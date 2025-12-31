@@ -50,7 +50,7 @@ streamlit run main.py
 
 ---
 
-## 🧪 Notes
+## ⚠️ Notes
 
 * Educational hackathon project
 * First hands-on ML experience for the team
